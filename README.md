@@ -4,12 +4,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=islem-haddada&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islem-haddada&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=islem-haddada&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islem-haddada&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnp1cndqdGw3MDNkYjh2anJkb2x0c2dzenFmMWRlZmhjcTgxZ3dsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QTfa8EZ9dQAHzF4e06/giphy.gif"  />
+<img align="right" height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnp1cndqdGw3MDNkYjh2anJkb2x0c2dzenFmMWRlZmhjcTgxZ3dsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QTfa8EZ9dQAHzF4e06/giphy.gif"  />
 
 ###
 
